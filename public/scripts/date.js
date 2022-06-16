@@ -11,5 +11,7 @@ exports.currentDate = function(){
 };
 
 exports.addNum = function(num1,num2){
+  //just a test if i can pass a parameter base on my understanding of the concept
+  //guess what u can!
   return num1+num2;
 };
